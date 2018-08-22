@@ -1,0 +1,23 @@
+1.What is git?
+git is an open source distibuted version control system which is used to handle anything from small to big and big project.
+2.Why we use git?
+we have immense benifits by using this tools
+1.It is managed by online which hosts our project
+2.we can share the code by other developers
+3.Developers can download the project and can work 
+4.They can upload their edits nd merge them with the  main codebase.
+3.What is Distributed version control system?
+Distributed version control system is independent  ,federated and peer to peer.In  distributed version control system every user has one repository.we can branch and merge there
+4.what is version Control system?
+version control systems are the software tools which are used by the software developer team for back up purposes and it is efficient and faster .one of the most popular version control system is git.Generally we can retrive all the files and track and Synchronize the file there.
+5.What is a repo?
+A repo is container of projects.
+6.what is ssh keys?
+it is used to securely transfer the data.
+7.what is git commit?
+git commit records the changes to the repository
+8.what is git push?
+It is the transfer to th last commit in the remote server.
+9.
+
+
